@@ -1,0 +1,20 @@
+# Compiled binaries and object files
+*.o
+ls
+*.core
+*.dSYM/
+
+# Test artifacts and temporary files
+/test_dir/
+/tmp_test/
+*.tmp
+*.pdf
+run_netbsd.py
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
