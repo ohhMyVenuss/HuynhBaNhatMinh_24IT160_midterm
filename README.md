@@ -1,9 +1,8 @@
 # Midterm Project: Implementation of UNIX ls(1)
 
-**Course:** Advanced Programming in the UNIX Environment / System Programming  
-**Author:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**GitHub Repository:** [https://github.com/YourUsername/Name_studentID_midterm](https://github.com/YourUsername/Name_studentID_midterm)  
+**Course:** System Programming  
+**Author:** Huynh Ba Nhat Minh
+**Student ID:** 24IT160
 **Target Environment:** NetBSD 10.1 / POSIX-compliant UNIX systems  
 
 ---
