@@ -9,6 +9,8 @@ ls
 /tmp_test/
 *.tmp
 *.pdf
+*.py
+~$*
 run_netbsd.py
 
 # OS / Editor specific
